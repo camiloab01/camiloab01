@@ -6,10 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Camilo Aguero Botero</h1>
 <h3 align="center">A passionate Web3 Full Stack Developer based in Chicago, Illinois.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camiloab01&label=Profile%20views&color=0e75b6&style=flat" alt="camiloab01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camiloab01" alt="camiloab01" /></a> </p>
-
 - 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [camiloab01.xyz](camiloab01.xyz)
@@ -17,6 +13,10 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **React, Typescript, Javascript**
 
 - 📫 How to reach me **camiloab01@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=camiloab01&label=Profile%20views&color=0e75b6&style=flat" alt="camiloab01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camiloab01" alt="camiloab01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
