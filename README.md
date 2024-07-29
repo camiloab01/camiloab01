@@ -2,7 +2,7 @@
 camiloab01/camiloab01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+[![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
 <h1 align="center">Welcome to my Github, I'm Camilo ☕️</h1>
 <h3 align="center">A passionate Web3 Full Stack Developer based in Chicago, Illinois.🎡</h3>
 
@@ -12,9 +12,9 @@ A detail-oriented and problem solver Full Stack Developer, with over 10 years of
 
 - 💬 Ask me about **React, Typescript, Javascript**
   
-- 🌱 I’m currently learning **Solidity**
+- 🌱 Currently learning **Solidity**
 
-- 📫 How to reach me **camiloab01@gmail.com**
+- 📫 How to reach me: **camiloab01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camiloab01&label=Profile%20views&color=0e75b6&style=flat" alt="camiloab01" /> </p>
 
