@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Welcome to my Github, I'm Camilo ☕️</h1>
-<h3 align="center">A passionate Web3 Full Stack Developer based in Chicago, Illinois.</h3>
+<h3 align="center">A passionate Web3 Full Stack Developer based in Chicago, Illinois.🎡</h3>
 
 A detail-oriented and problem solver Full Stack Developer, with over 10 years of overall experience including 4+ years of experience within the crypto industry. Seeking to leverage my Frontend and Full Stack expertise to drive innovation and to deliver impactful technological and web3 solutions.
 
