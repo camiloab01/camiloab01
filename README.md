@@ -22,8 +22,6 @@ A detail-oriented and problem solver Full Stack Developer, with over 10 years of
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/camiloab01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="camiloab01" height="30" width="40" /></a>
-<a href="https://twitter.com/camiloab01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camiloab01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/camilo-aguero-botero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo-aguero-botero" height="30" width="40" /></a>
 </p>
 
