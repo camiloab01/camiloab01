@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 A detail-oriented and problem solver Full Stack Developer, with over 10 years of overall experience including 4+ years of experience within the crypto industry. Seeking to leverage my Frontend and Full Stack expertise to drive innovation and to deliver impactful technological and web3 solutions.
 
-- 👨‍💻 All of my projects are available at [camiloab01.xyz](camiloab01.xyz) (Portfolio under construction)
+- 👨‍💻 All of my projects are available at [camiloab01.dev](camiloab01.dev)
 
 - 💬 Ask me about **React, Typescript, Javascript**
   
